@@ -9,7 +9,5 @@
   "homepage": "https://github.com/jaumesalatantinya/ng2admin",
   "moduleType": [],
   "devDependencies": {
-    "angular": "angular2#~1.4.7",
-    "systemjs": "*"
   }
 }
