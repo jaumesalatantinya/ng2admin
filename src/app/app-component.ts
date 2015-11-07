@@ -3,8 +3,6 @@ import {RouteConfig, ROUTER_DIRECTIVES, ROUTER_PROVIDERS, LocationStrategy, Hash
 import {Routes, APP_ROUTES} from './route-config';
 import {HeaderComponent} from './header/header-component';
 import {FooterComponent} from './footer/footer-component';
-// import {UsersComponent} from './users/users-component';
-
 
 @Component({
 	selector: 'app',
@@ -15,7 +13,9 @@ import {FooterComponent} from './footer/footer-component';
 		provide(LocationStrategy, { useClass: HashLocationStrategy })
 	]
 })
+
 @RouteConfig(APP_ROUTES)
+
 export class AppComponent {
 	routes = Routes;
 }
