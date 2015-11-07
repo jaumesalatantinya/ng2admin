@@ -1,13 +1,12 @@
 {
-  "name": "ng2admin",
-  "description": "Angular 2 admin with ts",
-  "main": "index.html",
-  "authors": [
-    "James Sala Tantinya"
-  ],
-  "license": "ISC",
-  "homepage": "https://github.com/jaumesalatantinya/ng2admin",
-  "moduleType": [],
-  "devDependencies": {
-  }
+    "name": "ng2admin",
+    "description": "Angular 2 admin with ts",
+    "main": "index.html",
+    "authors": [
+        "James Sala Tantinya"
+    ],
+    "license": "ISC",
+    "homepage": "https://github.com/jaumesalatantinya/ng2admin",
+    "moduleType": [],
+    "devDependencies": {}
 }
