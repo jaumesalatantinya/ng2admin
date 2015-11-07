@@ -6,7 +6,7 @@
         "clean": "rimraf src/**/*.js src/**/*.js.map",
         "build": "tsc",
         "watch": "tsc --watch",
-        "serve": "http-server -p 9090 -c-1",
+        "serve": "live-server --open=src",
         "test": "karma start karma.conf.js"
     },
     "repository": {
@@ -18,5 +18,8 @@
     "bugs": {
         "url": "https://github.com/jaumesalatantinya/ng2admin/issues"
     },
-    "homepage": "https://github.com/jaumesalatantinya/ng2admin#readme"
+    "homepage": "https://github.com/jaumesalatantinya/ng2admin#readme",
+    "devDependencies": {
+        "live-server": "^0.8.2"
+    }
 }
