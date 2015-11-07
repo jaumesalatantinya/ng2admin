@@ -1,0 +1,22 @@
+{
+    "name": "ng2admin",
+    "version": "1.0.0",
+    "description": "Angular 2 admin with ts",
+    "scripts": {
+        "clean": "rimraf src/**/*.js src/**/*.js.map",
+        "build": "tsc",
+        "watch": "tsc --watch",
+        "serve": "http-server -p 9090 -c-1",
+        "test": "karma start karma.conf.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jaumesalatantinya/ng2admin.git"
+    },
+    "author": "James Sala Tantinya",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/jaumesalatantinya/ng2admin/issues"
+    },
+    "homepage": "https://github.com/jaumesalatantinya/ng2admin#readme"
+}
