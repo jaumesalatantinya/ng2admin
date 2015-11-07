@@ -1,15 +1,20 @@
 <header>
-	<header-component></header-component>
+    <header-component></header-component>
 </header>
 
 <aside>
-	<navbar-component></navbar-component>
+    <nav>
+        <ul>
+            <a [router-link]="routes.items.link" class="router-link">Items</a>
+            <a [router-link]="routes.users.link" class="router-link">Users</a>
+        </ul>
+    </nav>
 </aside>
 
 <main>
-	<router-outlet></router-outlet>
+    <router-outlet></router-outlet>
 </main>
 
 <footer>
-	footer
+    <footer-component></footer-component>
 </footer>
