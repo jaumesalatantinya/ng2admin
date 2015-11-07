@@ -20,6 +20,8 @@
     },
     "homepage": "https://github.com/jaumesalatantinya/ng2admin#readme",
     "devDependencies": {
-        "live-server": "^0.8.2"
+        "live-server": "^0.8.2",
+        "rimraf": "^2.4.3",
+        "typescript": "^1.6.2"
     }
 }
