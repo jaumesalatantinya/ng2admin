@@ -1,0 +1,787 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cons",
+				"console"
+			],
+			[
+				"http",
+				"httpHandler"
+			],
+			[
+				"pr",
+				"promise"
+			],
+			[
+				"D",
+				"dessertMangaer"
+			],
+			[
+				"des",
+				"describe"
+			],
+			[
+				"de",
+				"dessertManager"
+			],
+			[
+				"to",
+				"toEqual"
+			],
+			[
+				"nu",
+				"nutritionalValue"
+			],
+			[
+				"ex",
+				"exp	expect"
+			],
+			[
+				"p",
+				"props"
+			],
+			[
+				"input",
+				"inputt	input - text"
+			],
+			[
+				"n",
+				"ng-app	AngularJS"
+			],
+			[
+				"$roo",
+				"$rootScope	AngularJS"
+			],
+			[
+				"e",
+				"element"
+			],
+			[
+				"pie",
+				"pieFlavors"
+			],
+			[
+				"flavo",
+				"flavors"
+			],
+			[
+				"contro",
+				"controller	AngularJS"
+			],
+			[
+				"controller",
+				"$controller	AngularJS"
+			],
+			[
+				"root",
+				"$rootScope	AngularJS"
+			],
+			[
+				"exp",
+				"exp	expect"
+			],
+			[
+				"get",
+				"getUsers"
+			],
+			[
+				"u",
+				"udpateTemperature"
+			],
+			[
+				"curr",
+				"currentStatus"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"script",
+				"script	<script>"
+			],
+			[
+				"grou",
+				"groups"
+			],
+			[
+				"SU",
+				"success"
+			],
+			[
+				"html",
+				"html	html"
+			],
+			[
+				"head",
+				"header	<header>"
+			],
+			[
+				"ng-c",
+				"ng-click	AngularJS"
+			],
+			[
+				"ng-re",
+				"ng-repeat	AngularJS"
+			],
+			[
+				"jquery",
+				"jquery-ui"
+			],
+			[
+				"bow",
+				"bower_components"
+			],
+			[
+				"use",
+				"usersService"
+			],
+			[
+				"a",
+				"awesomeThings"
+			],
+			[
+				"thi",
+				"awesomeThings"
+			],
+			[
+				"backgoun",
+				"background-image"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"FT",
+				"ftpsync"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Users/jaume/workspace/angular2-tour-of-heroes/src/index.html",
+			"settings":
+			{
+				"buffer_size": 606,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jaume/workspace/angular2-tour-of-heroes/src/app/bootstrap.ts",
+			"settings":
+			{
+				"buffer_size": 117,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/jaume/workspace/ng2-test-seed/tsconfig.json",
+			"settings":
+			{
+				"buffer_size": 297,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pre",
+		"selected_items":
+		[
+			[
+				"pre",
+				"HTMLPrettify"
+			],
+			[
+				"syntax ty",
+				"Set Syntax: TypeScript"
+			],
+			[
+				"prett",
+				"HTMLPrettify"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syj",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Color Picker"
+			],
+			[
+				"int",
+				"Package Control: Install Package"
+			],
+			[
+				"co",
+				"Color Picker"
+			],
+			[
+				"color",
+				"Color Picker"
+			],
+			[
+				"intall",
+				"Package Control: Install Package"
+			],
+			[
+				"inta",
+				"Package Control: Install Package"
+			],
+			[
+				"PRE",
+				"HTMLPrettify"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 530.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/jaume/workspace/ng2admin"
+	],
+	"file_history":
+	[
+		"/Users/jaume/workspace/ng2admin/src/app/app-component.ts",
+		"/Users/jaume/workspace/ng2admin/src/app-component.ts",
+		"/Users/jaume/workspace/ng2admin/tsconfig.json",
+		"/Users/jaume/workspace/ng2admin/src/index.html",
+		"/Users/jaume/workspace/ng2admin/bower.json",
+		"/Users/jaume/workspace/ng2admin/src/bootstrap.ts",
+		"/Users/jaume/workspace/ng2-test-seed/src/app/bootstrap.ts",
+		"/Users/jaume/workspace/ng2-test-seed/src/app/app-component.ts",
+		"/Users/jaume/workspace/ng2admin/src/bower_components/systemjs/.bower.json",
+		"/Users/jaume/workspace/ng2admin/.sublime-project",
+		"/Users/jaume/workspace/ng2admin/package.json",
+		"/Users/jaume/workspace/angular-seed/.jshintrc",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/index.html",
+		"/Users/jaume/workspace/ng2-test-seed/src/index.html",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/tsconfig.json",
+		"/Users/jaume/workspace/ng2-test-seed/tsconfig.json",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/package.json",
+		"/Users/jaume/workspace/ng2admin/.bowerrc",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/.gitignore",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/angular-material.css",
+		"/Users/jaume/workspace/ng2-test-seed/package.json",
+		"/Users/jaume/workspace/ng2admin/.gitignore",
+		"/Users/jaume/workspace/ng2-test-seed/.gitignore",
+		"/Users/jaume/workspace/angular-seed/.bowerrc",
+		"/Users/jaume/workspace/ng/.bowerrc",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app/hero.service.ts",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/tsconfig.json",
+		"/Users/jaume/workspace/ng2-test-seed-j/src/app/bootstrap.ts",
+		"/Users/jaume/workspace/ng2-test-seed-j/src/app/app-component.ts",
+		"/Users/jaume/workspace/ng2-test-seed/src/app/greeting-component.ts",
+		"/Users/jaume/workspace/ng2-test-seed-j/src/app/user-service.ts",
+		"/Users/jaume/workspace/ng2-test-seed-j/src/app/greeting-component.ts",
+		"/Users/jaume/workspace/ng2-test-seed-j/src/app/greeting-component.js",
+		"/Users/jaume/workspace/ng2-test-seed/src/app/user-service.ts",
+		"/Users/jaume/workspace/ng2-test-seed/src/app/login-service.ts",
+		"/Users/jaume/workspace/ng2-test-seed-j/src/app/border-component.ts",
+		"/Users/jaume/workspace/ng2-test-seed-j/src/app/border-component.html",
+		"/Users/jaume/workspace/ng2-test-seed-j/src/app/border-component.js",
+		"/Users/jaume/workspace/ng2-test-seed/src/app/border-component.html",
+		"/Users/jaume/workspace/ng2-test-seed/src/app/border-component.ts",
+		"/Users/jaume/workspace/ng2-test-seed-j/src/index.html",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app/app.component.js.map",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app/app.component.ts",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app/app.component.html",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/todo.html",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app/route.config.ts",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app/bootstrap.ts",
+		"/Users/jaume/workspace/ng2-test-seed-j/package.json",
+		"/Users/jaume/workspace/ng2-test-seed-j/tsconfig.json",
+		"/Users/jaume/workspace/angular-seed/app/index.html",
+		"/Users/jaume/workspace/ng2-test-seed-j/src",
+		"/Users/jaume/workspace/ng-jasmine-testing/test/pie-controller-test.js",
+		"/Users/jaume/workspace/llatjos/app/parse/parse.js",
+		"/Users/jaume/workspace/llatjos/app/parse/parse.test.js",
+		"/Users/jaume/workspace/llatjos/app/js/xeditable.js",
+		"/Users/jaume/workspace/llatjos/app/signin/signin.js",
+		"/Users/jaume/workspace/llatjos/app/signin/signin.test.js",
+		"/Users/jaume/workspace/ng-jasmine-testing/test/stateful-test.js",
+		"/Users/jaume/workspace/ng-jasmine-testing/test/title-case-test.js",
+		"/Users/jaume/workspace/ng-jasmine-testing/test/dessert-manager-test.js",
+		"/Users/jaume/workspace/ng-jasmine-testing/app/stateful.js",
+		"/Users/jaume/workspace/llatjos/karma.conf.js",
+		"/Users/jaume/workspace/llatjos/app/index.html",
+		"/Users/jaume/workspace/ng-jasmine-testing/karma.conf.js",
+		"/Users/jaume/workspace/ng-jasmine-testing/app/dessert-manager.js",
+		"/Users/jaume/workspace/ng-jasmine-testing/app/pie-controller.js",
+		"/Users/jaume/workspace/llatjos/app/js/parse.js",
+		"/Users/jaume/workspace/ng-jasmine-testing/app/index.html",
+		"/Users/jaume/workspace/ng-jasmine-testing/app/app.js",
+		"/Users/jaume/workspace/ng/app/index.html",
+		"/Users/jaume/workspace/ng/app/scripts/app.js",
+		"/Users/jaume/workspace/ng-jasmine-testing/app/text-and-sub.js",
+		"/Users/jaume/workspace/ng-jasmine-testing/app/title-case.js",
+		"/Users/jaume/workspace/ng-jasmine-testing/test/title-case.js",
+		"/Users/jaume/workspace/ng/app/scripts/services/myservice.js",
+		"/Users/jaume/workspace/ng-jasmine-testing/package.json",
+		"/Users/jaume/workspace/llatjos/package.json",
+		"/Users/jaume/workspace/ng/test/spec/controllers/main.js",
+		"/Users/jaume/workspace/llatjos/app/app.js",
+		"/Users/jaume/workspace/ng/test/spec/services/myservice.js",
+		"/Users/jaume/workspace/ng2-test-seed/karma.conf.js",
+		"/Users/jaume/workspace/ng2-test-seed/src/test/greeting-component_test.ts",
+		"/Users/jaume/workspace/ng2-test-seed/src/test/calc.ts",
+		"/Users/jaume/workspace/ng2-test-seed/src/test/sanity_test.ts",
+		"/Users/jaume/workspace/ng2-test-seed/src/test/matchers.ts",
+		"/Users/jaume/workspace/ng2-test-seed/src/test/border-component_test.ts",
+		"/Users/jaume/workspace/brewController/test/karma.conf.js",
+		"/Users/jaume/workspace/ng2-test-seed/src/test/border-component_test.js",
+		"/Users/jaume/workspace/ng2-test-seed/karma-test-shim.js",
+		"/Users/jaume/workspace/brewController/app/scripts/controllers/main.js",
+		"/Users/jaume/workspace/brewController/test/spec/services/backendservice.js",
+		"/Users/jaume/workspace/brewController/app/views/main.html",
+		"/Users/jaume/workspace/brewController/test/spec/controllers/main.js",
+		"/Users/jaume/workspace/brewController/app/scripts/services/backendservice.js",
+		"/Users/jaume/workspace/brewController/Gruntfile.js",
+		"/Users/jaume/workspace/brewController/app/scripts/app.js",
+		"/Users/jaume/workspace/llatjos/app/signin/signin.html",
+		"/Users/jaume/workspace/llatjos/app/js/bootstrap.js",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app-off/hero-detail.component.html",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app-off/hero-detail.component.ts",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app/app.component.js",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app-off/heroes.component.ts",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app-off/dashboard.component.ts",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app-off/heroes.component.html",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app-off/app.component.ts",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app-off/hero-detail.component.js",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app-off/heroes.component.js",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app-off/app.component.js",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app/heroes.component.html",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app/heroes.component.ts",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app/mock-heroes.ts",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app/status.component.html",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app/status.component.ts",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app/dashboard.component.ts",
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app/hero.model.ts",
+		"/Users/jaume/workspace/ng2-test-seed/src/test/user-service_test.ts",
+		"/Users/jaume/workspace/ng2-seed/index.html",
+		"/Users/jaume/workspace/ng2-seed/package.json",
+		"/Users/jaume/workspace/ng2-seed/bootstrap.js",
+		"/Users/jaume/workspace/ng2-seed/app/index.html",
+		"/Users/jaume/workspace/ng2-seed/app",
+		"/Users/jaume/workspace/ng2-test-seed/src/test/calc.js",
+		"/Users/jaume/workspace/ng2-test-seed/src/app/calc.ts",
+		"/Users/jaume/workspace/ng2-test-seed/src/calc.html",
+		"/Users/jaume/workspace/ng2-test-seed/src/test/matchers.js",
+		"/Users/jaume/workspace/ng2-test-seed/src/app/calc.js",
+		"/Users/jaume/workspace/ng2-test-seed/src/test/sanity_test.js.map",
+		"/Users/jaume/workspace/ng2-test-seed/src/test/sanity_test.js"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/jaume/workspace/angular2-tour-of-heroes/src/app-off",
+			"/Users/jaume/workspace/theme",
+			"/Users/jaume/workspace/llatjos2",
+			"/Users/jaume/workspace/theme",
+			"/Users/jaume/workspace/llatjos/app/tpl",
+			"/Users/jaume/workspace/llatjos",
+			"<project>",
+			"/Users/jaume/workspace/ng-admin-demo",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"toHaveBeenCalled",
+			"then",
+			"test",
+			"DessertValues",
+			" ){",
+			"diyBrewControllerApp",
+			"ControllerApi",
+			"*ng",
+			"add",
+			"onshow",
+			"loadGroups",
+			"group",
+			"editable-empt",
+			"smart-table",
+			"app.",
+			"form",
+			"rowform.$show",
+			"rowform",
+			"row",
+			"editableOptions",
+			"rowForm",
+			"min",
+			"params",
+			"filesloader",
+			"jsLoader",
+			"empty",
+			"editable-empty",
+			"empty",
+			"editableOptions",
+			"editable-empty",
+			"empty",
+			"statuses",
+			"todo",
+			"window.location.href.indexOf(\"material\")",
+			"material",
+			"h3",
+			"header",
+			"$this",
+			"ucfirst",
+			"animate",
+			"$scope",
+			"ng-app",
+			"router",
+			"href",
+			"blocks/header.html",
+			"blocks/header.ht l",
+			"blocks/",
+			"header",
+			"login",
+			"../",
+			"header.html",
+			"calendar",
+			"toBe",
+			"MainCtrl",
+			"$scope",
+			"beforeEach(function () {",
+			"js/jquey",
+			"hromeOnly: true",
+			"frameworks: [",
+			"bootst",
+			"Todolist",
+			"\"}}</",
+			"''}}</",
+			"hotCopie",
+			"controller",
+			"apidocs",
+			"expresslivereload",
+			"reactparsebootstrap",
+			"& ",
+			"Bootstrap",
+			"default",
+			"grunt",
+			"registerTask",
+			"', ",
+			"']);",
+			"app.listen",
+			"\"",
+			"ftp_push"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"backendService",
+			"angular.module('app').",
+			"roles",
+			"h5",
+			"this",
+			"/",
+			"vm",
+			"this",
+			"'"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/jaume/workspace/angular2-tour-of-heroes/src/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 606,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								214,
+								196
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/jaume/workspace/angular2-tour-of-heroes/src/app/bootstrap.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 117,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Users/jaume/workspace/ng2-test-seed/tsconfig.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 297,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								101,
+								50
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ng2admin.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ozlazyload",
+				"llatjos2/app/libs/angular/oclazyload/dist/ocLazyLoad.js"
+			],
+			[
+				"xeditable",
+				"llatjos2/app/libs/angular/angular-xeditable/dist/js/xeditable.js"
+			],
+			[
+				"xeditable.js",
+				"llatjos2/app/libs/angular/angular-xeditable/dist/js/xeditable.js"
+			],
+			[
+				"protacto",
+				"nggulp/protractor.conf.js"
+			],
+			[
+				"getus",
+				"angulartodolist/app/scripts/services/getusers.js"
+			],
+			[
+				"es6-shim.js",
+				"ng2todo/node_modules/when/es6-shim/Promise.browserify-es6.js"
+			],
+			[
+				"grunt",
+				"expresslivereload/gruntfile.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 1241.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 176.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
