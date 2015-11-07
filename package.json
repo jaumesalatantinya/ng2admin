@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "description": "Angular 2 admin with ts",
     "scripts": {
-        "clean": "rimraf src/**/*.js src/**/*.js.map",
+        "clean": "rimraf src/app/**/*.js src/app/**/*.js.map",
         "tsc": "tsc -p src -w",
         "serve": "live-server --open=src",
         "test": "karma start karma.conf.js"
