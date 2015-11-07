@@ -1,10 +1,10 @@
-import {Component} from 'angular2/angular2';
+import {Component, CORE_DIRECTIVES} from 'angular2/angular2';
 
 @Component({
     selector: 'users-component',
-    template: 'This should be de main view for users';
-    directives: []
+    templateUrl: './app/users/users-component.html';
+    directives: [CORE_DIRECTIVES]
 })
 export class UsersComponent {
-
+	users = ['Anna', 'Eli', 'Ruth'];
 }
