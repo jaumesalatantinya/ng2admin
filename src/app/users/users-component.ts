@@ -6,5 +6,5 @@ import {Component, CORE_DIRECTIVES} from 'angular2/angular2';
     directives: [CORE_DIRECTIVES]
 })
 export class UsersComponent {
-	users = ['Anna', 'Eli', 'Ruth'];
+	users = ['Anna', 'Eli', 'Ruth', 'Cris'];
 }

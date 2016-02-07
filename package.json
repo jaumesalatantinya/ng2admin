@@ -5,7 +5,7 @@
     "scripts": {
         "clean": "rimraf src/app/**/*.js src/app/**/*.js.map",
         "tsc": "tsc -p src -w",
-        "serve": "live-server --open=src",
+        "serve": "live-server --open=src --ignore=*.ts,*.map",
         "test": "karma start karma.conf.js"
     },
     "repository": {

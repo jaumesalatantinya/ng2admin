@@ -176,26 +176,50 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/jaume/workspace/angular2-tour-of-heroes/src/index.html",
+			"file": "src/index.html",
 			"settings":
 			{
-				"buffer_size": 606,
+				"buffer_size": 519,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/jaume/workspace/angular2-tour-of-heroes/src/app/bootstrap.ts",
+			"file": "src/app/users/users-component.ts",
 			"settings":
 			{
-				"buffer_size": 117,
+				"buffer_size": 273,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/Users/jaume/workspace/ng2-test-seed/tsconfig.json",
+			"file": "src/app/app-component.html",
 			"settings":
 			{
-				"buffer_size": 297,
+				"buffer_size": 359,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/navbar/navbar-component.ts",
+			"settings":
+			{
+				"buffer_size": 204,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/navbar/navbar-component.html",
+			"settings":
+			{
+				"buffer_size": 59,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/app-component.ts",
+			"settings":
+			{
+				"buffer_size": 664,
 				"line_ending": "Unix"
 			}
 		}
@@ -208,9 +232,13 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "pre",
+		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
 			[
 				"pre",
 				"HTMLPrettify"
@@ -221,10 +249,6 @@
 			],
 			[
 				"prett",
-				"HTMLPrettify"
-			],
-			[
-				"pretty",
 				"HTMLPrettify"
 			],
 			[
@@ -301,21 +325,38 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/jaume/workspace/ng2admin"
+		"/Users/jaume/workspace/ng2admin",
+		"/Users/jaume/workspace/ng2admin/src",
+		"/Users/jaume/workspace/ng2admin/src/app",
+		"/Users/jaume/workspace/ng2admin/src/app/navbar",
+		"/Users/jaume/workspace/ng2admin/src/app/users"
 	],
 	"file_history":
 	[
+		"/Users/jaume/workspace/ng2admin/package.json",
+		"/Users/jaume/workspace/ng2admin/src/app/users/users-component.html",
+		"/Users/jaume/workspace/ng2admin/src/app/bootstrap.ts",
 		"/Users/jaume/workspace/ng2admin/src/app/app-component.ts",
+		"/Users/jaume/workspace/ng2admin/src/app/app-component.html",
+		"/Users/jaume/workspace/ng2admin/src/app/route-config.ts",
+		"/Users/jaume/workspace/ng2admin/src/app/users/users-component.ts",
+		"/Users/jaume/workspace/ng2admin/src/app/navbar/navbar-component.ts",
+		"/Users/jaume/workspace/ng2admin/src/app/header/header-component.ts",
+		"/Users/jaume/workspace/ng2admin/src/app/header/header-component.html",
+		"/Users/jaume/workspace/ng2admin/src/app/items/items-component.ts",
+		"/Users/jaume/workspace/ng2admin/src/app/footer/navbar-component.ts",
+		"/Users/jaume/workspace/ng2admin/src/app/navbar/navbar-component.html",
+		"/Users/jaume/workspace/ng2admin/bower.json",
+		"/Users/jaume/Library/Application Support/Sublime Text 3/Settings/SideBarEnhancements.json",
+		"/Users/jaume/workspace/ng2admin/ng2admin.sublime-project",
 		"/Users/jaume/workspace/ng2admin/src/app-component.ts",
 		"/Users/jaume/workspace/ng2admin/tsconfig.json",
 		"/Users/jaume/workspace/ng2admin/src/index.html",
-		"/Users/jaume/workspace/ng2admin/bower.json",
 		"/Users/jaume/workspace/ng2admin/src/bootstrap.ts",
 		"/Users/jaume/workspace/ng2-test-seed/src/app/bootstrap.ts",
 		"/Users/jaume/workspace/ng2-test-seed/src/app/app-component.ts",
 		"/Users/jaume/workspace/ng2admin/src/bower_components/systemjs/.bower.json",
 		"/Users/jaume/workspace/ng2admin/.sublime-project",
-		"/Users/jaume/workspace/ng2admin/package.json",
 		"/Users/jaume/workspace/angular-seed/.jshintrc",
 		"/Users/jaume/workspace/angular2-tour-of-heroes/src/index.html",
 		"/Users/jaume/workspace/ng2-test-seed/src/index.html",
@@ -419,24 +460,11 @@
 		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app/status.component.html",
 		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app/status.component.ts",
 		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app/dashboard.component.ts",
-		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app/hero.model.ts",
-		"/Users/jaume/workspace/ng2-test-seed/src/test/user-service_test.ts",
-		"/Users/jaume/workspace/ng2-seed/index.html",
-		"/Users/jaume/workspace/ng2-seed/package.json",
-		"/Users/jaume/workspace/ng2-seed/bootstrap.js",
-		"/Users/jaume/workspace/ng2-seed/app/index.html",
-		"/Users/jaume/workspace/ng2-seed/app",
-		"/Users/jaume/workspace/ng2-test-seed/src/test/calc.js",
-		"/Users/jaume/workspace/ng2-test-seed/src/app/calc.ts",
-		"/Users/jaume/workspace/ng2-test-seed/src/calc.html",
-		"/Users/jaume/workspace/ng2-test-seed/src/test/matchers.js",
-		"/Users/jaume/workspace/ng2-test-seed/src/app/calc.js",
-		"/Users/jaume/workspace/ng2-test-seed/src/test/sanity_test.js.map",
-		"/Users/jaume/workspace/ng2-test-seed/src/test/sanity_test.js"
+		"/Users/jaume/workspace/angular2-tour-of-heroes/src/app/hero.model.ts"
 	],
 	"find":
 	{
-		"height": 35.0
+		"height": 118.0
 	},
 	"find_in_files":
 	{
@@ -459,6 +487,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"js",
 			"toHaveBeenCalled",
 			"then",
 			"test",
@@ -563,51 +592,109 @@
 	"groups":
 	[
 		{
-			"sheets":
-			[
-			]
-		},
-		{
-			"selected": 0,
+			"selected": 3,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/jaume/workspace/angular2-tour-of-heroes/src/index.html",
+					"file": "src/index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 606,
+						"buffer_size": 519,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								214,
-								196
+								400,
+								400
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 2,
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 5,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/Users/jaume/workspace/angular2-tour-of-heroes/src/app/bootstrap.ts",
+					"file": "src/app/users/users-component.ts",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 117,
+						"buffer_size": 273,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								267,
+								267
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/app/app-component.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 359,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"typescript_plugin_format_options":
+							{
+								"convertTabsToSpaces": false,
+								"indentSize": 4,
+								"tabSize": 4
+							}
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/app/navbar/navbar-component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 204,
 						"regions":
 						{
 						},
@@ -627,37 +714,64 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "/Users/jaume/workspace/ng2-test-seed/tsconfig.json",
+					"buffer": 4,
+					"file": "src/app/navbar/navbar-component.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 297,
+						"buffer_size": 59,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								101,
-								50
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/HTML/HTML.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/app/app-component.ts",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 664,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TypeScript/TypeScript.tmLanguage",
+							"use_tab_stops": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
 					"type": "text"
 				}
 			]
@@ -680,18 +794,11 @@
 				0,
 				1,
 				1
-			],
-			[
-				1,
-				0,
-				2,
-				1
 			]
 		],
 		"cols":
 		[
 			0.0,
-			0.5,
 			1.0
 		],
 		"rows":
@@ -755,12 +862,16 @@
 	},
 	"select_project":
 	{
-		"height": 0.0,
+		"height": 500.0,
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"~/workspace/llatjos/llatjos.sublime-project"
+			]
 		],
-		"width": 0.0
+		"width": 380.0
 	},
 	"select_symbol":
 	{
